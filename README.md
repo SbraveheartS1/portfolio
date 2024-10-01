@@ -17,31 +17,38 @@ Instalación y Uso
 Para visualizar y usar este proyecto localmente, sigue estos pasos:
 
 Clona el repositorio:
-
-Copiar código
 git clone https://github.com/SbraveheartS1/portfolio.git
 
 Navega a la carpeta del proyecto:
 No se requiere instalación adicional, ya que este proyecto está construido solo con tecnologías de frontend.
 
 Estructura del Proyecto
-Copiar código
-.
+
+
 ├── assets/               # Archivos de imágenes, fuentes, y otros recursos estáticos
+
 │   └── (archivos de recursos)
+
 ├── blog.html             # Página del blog personal
+
 ├── contacto.html         # Página de contacto
+
 ├── curriculum.html       # Página con el currículum vitae
+
 ├── index.html            # Página de inicio del portafolio
+
 ├── portafolio.html       # Página de proyectos y trabajos realizados
+
 └── sobre-mi.html         # Página con información personal
 
 Características
-Página principal (index.html): Contiene una vista general de quién soy y lo que hago.
-
-Sobre mi (sobre-mi.html): Contiene información 
+Página principal (index.html): . Portada Principal que incluye mi nombre
 
 ![image](https://github.com/user-attachments/assets/1b5877ed-c323-4b73-872b-6716737f46cd)
+
+Sobre mi (sobre-mi.html): Contiene una vista general de quién soy y lo que hago
+
+![image](https://github.com/user-attachments/assets/1fd657b8-ee57-4f66-888c-48519974fb91)
 
 Sección de portafolio (portafolio.html): Muestra proyectos destacados en los que he trabajado.
 
@@ -49,7 +56,7 @@ Sección de portafolio (portafolio.html): Muestra proyectos destacados en los qu
 
 Blog (blog.html): Espacio para compartir ideas y conocimientos sobre desarrollo web y tecnología.
 
-![image](https://github.com/user-attachments/assets/1fd657b8-ee57-4f66-888c-48519974fb91)
+![image](https://github.com/user-attachments/assets/63e973d2-95f8-4ebe-926e-ee2c2ad62887)
 
 Currículum (curriculum.html): Incluye mi experiencia laboral, educación y habilidades.
 

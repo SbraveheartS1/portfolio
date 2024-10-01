@@ -5,6 +5,7 @@ Este es mi portafolio personal de ejemplo, para demostrar mis habilidades he des
 El objetivo de este proyecto es mostrar mis habilidades como desarrollador web y presentar algunos de los proyectos en los que he trabajado.
 
 Tecnologías Utilizadas
+
 HTML5: Para la estructura de las páginas.
 CSS3: Para el diseño, animaciones y estilo.
 JavaScript: Para la interactividad en las diferentes secciones.
@@ -14,17 +15,20 @@ Animaciones en CSS para mejorar la experiencia del usuario.
 Navegación fluida con efectos de desplazamiento suave.
 Sección de proyectos donde muestro algunos de mis trabajos más recientes.
 Formulario de contacto para que los usuarios puedan ponerse en contacto conmigo.
+
 Instalación y Uso
+
 Para visualizar y usar este proyecto localmente, sigue estos pasos:
 
 Clona el repositorio:
+
 git clone https://github.com/SbraveheartS1/portfolio.git
 
 Navega a la carpeta del proyecto:
+
 No se requiere instalación adicional, ya que este proyecto está construido solo con tecnologías de frontend.
 
 Estructura del Proyecto
-
 
 ├── assets/               # Archivos de imágenes, fuentes, y otros recursos estáticos
 
@@ -70,6 +74,7 @@ Formulario de contacto (contacto.html): Permite a los usuarios enviarme mensajes
 
 
 Contacto
+
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de mi correo electrónico: [jose281197@gmail.com].
 
 Enlace:

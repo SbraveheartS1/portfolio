@@ -42,6 +42,7 @@ Estructura del Proyecto
 └── sobre-mi.html         # Página con información personal
 
 Características
+
 Página principal (index.html): . Portada Principal que incluye mi nombre
 
 ![image](https://github.com/user-attachments/assets/1b5877ed-c323-4b73-872b-6716737f46cd)
@@ -68,4 +69,4 @@ Formulario de contacto (contacto.html): Permite a los usuarios enviarme mensajes
 
 
 Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de mi correo electrónico: [jose281197.com].
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo a través de mi correo electrónico: [jose281197@gmail.com].

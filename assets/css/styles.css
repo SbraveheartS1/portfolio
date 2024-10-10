@@ -908,7 +908,7 @@ review__image-container{
 
 .certificate__content{
     padding: 2rem 2.5rem;
-    
+    width: 100%;
 }
 
 .certificate__title{
